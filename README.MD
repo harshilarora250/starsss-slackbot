@@ -10,7 +10,7 @@ Gives you a star! ⭐️
 
 ### `/starcat`
 
-Gives you a cat! 🐈
+Gives you a cat! 🐈 (This is a secret command BTW, not anymore to anyone reading the README 🤣 NERDS!) jk
 
 ### `/deletestar`
 
