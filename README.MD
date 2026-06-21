@@ -2,7 +2,7 @@
 
 Welcome and thank you for joining the Starsss readme. I'm pretty sure you can use the bot anywhere in the HackClub worksplace and in most channels.
 
-## Commands that you can
+## Commands that you can use!
 
 ### `/givemestar`
 
@@ -33,6 +33,11 @@ Test to see if the bot is working well.
 ## Source Code
 
 GitHub Repository: https://github.com/harshilarora250/starsss-slackbot/
+
+# AI / Contributions
+AI was used in this project for troubleshooting when I couldn't figure out how to get the package.json file (I know beginner...). Also, it was used for accessing HackClub Nest (I couldn't figure out how to get into my server)
+
+That's it.
 
 ## Contact
 
