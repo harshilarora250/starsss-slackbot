@@ -1,4 +1,4 @@
-# Starsss
+# Starsss the best slackbot! 😊
 
 Welcome and thank you for joining the Starsss readme. I'm pretty sure you can use the bot anywhere in the HackClub worksplace and in most channels.
 
