@@ -43,4 +43,4 @@ That's it.
 
 Created by _elipseday
 
-If you encounter any issues or have suggestions, feel free to reach out at elipseday@gmail.com.
+If you encounter any issues or have suggestions, feel free to reach out at elipseday@gmail.com. or @elipseday on HackClub Slack!
